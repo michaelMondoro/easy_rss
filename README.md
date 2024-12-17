@@ -1,6 +1,6 @@
 [![Generic badge](https://img.shields.io/badge/Licence-MIT-blue.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Maintained-yes-green.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/easy_rss-1.2.5-red.svg)](https://pypi.org/project/easy-rss)
+[![Generic badge](https://img.shields.io/badge/easy_rss-1.2.6-red.svg)](https://pypi.org/project/easy-rss)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/easy_rss)](https://pypi.org/project/easy-rss)
 
 # easy_rss
