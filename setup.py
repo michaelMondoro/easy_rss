@@ -19,6 +19,6 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    install_requires=['pytz', 'bs4', 'requests'],
+    install_requires=['pytz', 'bs4', 'requests', 'python-dateutil'],
     python_requires='>=3.8',
 )
